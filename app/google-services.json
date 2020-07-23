@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869255061147",
+    "firebase_url": "https://firstsignin-5406e.firebaseio.com",
+    "project_id": "firstsignin-5406e",
+    "storage_bucket": "firstsignin-5406e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869255061147:android:25cf246b445ed4b190303e",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869255061147-a8ce6mff87r28c0rfkhbmkkdub9i8nes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszL2-hOS3SGfOyFT35CssCi4CROz-L3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869255061147-a8ce6mff87r28c0rfkhbmkkdub9i8nes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
